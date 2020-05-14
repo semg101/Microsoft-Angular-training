@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\git-search",
+    "\\src\\app\\not-found"
+  ],
+  "SelectedNode": "\\src\\app\\git-search\\git-search.component.ts",
+  "PreviewInSolutionExplorer": false
+}
